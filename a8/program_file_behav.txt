@@ -1,0 +1,9 @@
+cpu.v
+cpu_tb.v
+dmem.v
+imem.v
+alu.v
+regfile.v
+decoder.v
+branch.v
+load_store.v
